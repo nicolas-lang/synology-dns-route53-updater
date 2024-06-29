@@ -1,0 +1,9 @@
+{
+    "Info": "Create a copy named config.json and enter your secrets",
+    "AWS_ACCESS_KEY": "EDIT_ME",
+    "AWS_SECRET_KEY": "EDIT_ME",
+    "AWS_REGION": "EDIT_ME",
+    "ROUTE53_HOSTED_ZONE_ID": "EDIT_ME",
+    "ROUTE53_DOMAIN": "EDIT_ME"
+  }
+  
